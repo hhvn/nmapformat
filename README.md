@@ -37,6 +37,10 @@ Usage
 ### Options
 None
 
+Thanks
+------------
+Thanks to the developers, maintainers and benefactors of nmap.  Love your software! https://nmap.org/
+
 Requirements
 ------------
 Linux OS / Python / nmap
