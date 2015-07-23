@@ -39,7 +39,7 @@ None
 
 Thanks
 ------------
-Thanks to the developers, maintainers and benefactors of nmap.  Love your software! https://nmap.org/
+Thanks to the developers, maintainers and benefactors of nmap(https://nmap.org/), Python(https://www.python.org/), Debian (https://www.debian.org/) and Kali(https://www.kali.org/). Love your software! 
 
 Requirements
 ------------
